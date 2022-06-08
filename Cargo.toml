@@ -1,0 +1,7 @@
+[package]
+authors = ["rise0chen <rise0chen@163.com>"]
+description = "convert identifier"
+edition = "2018"
+license-file = "LICENSE"
+name = "convert_ident"
+version = "0.0.1"
